@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 
 .row{
-  clear: bo
+  clear: both;
   margin-bottom: 2%;
 }
 .col-1 {
